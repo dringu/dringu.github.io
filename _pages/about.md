@@ -1,7 +1,8 @@
 ---
 layout: about
+permalink: /about/
 title: about
-permalink: /
+nav: true
 subtitle: "Start writing, no matter how bad it is. You can fix it later, but you can't fix a blank page." – Jodi Picoult
 
 profile:
