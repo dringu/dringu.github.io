@@ -28,8 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ya, I can fix it later.. setiap post di blog ini terpisah sebagai file markdown. Setiap tulisan adalah file markdown terpisah. Ketika ingin menulis, cukup ketik pada sebuah file markdown. Commit dan push melalui code editor, tulisan selanjutnya terposting. begitu mudah. Cara sederhana membuat blog seperti ini barangkali tidak akan terpikirkan kalo tidak "pindah tongkrongan". Terbiasa di [instagram](http://instagram.com), [X](http://x.com), dan [Starava](http://Strava.com) tanpa menyadari banyak hal menarik di . 
-
 Ya, I can fix it later... Setiap post di blog ini adalah file markdown terpisah. Ketika saya ingin menulis, saya cukup buka file markdown baru, ketik, lalu commit dan push melalui code editor. Begitu mudah, tulisan langsung terposting! Cara sederhana membuat blog seperti ini mungkin tidak akan terpikirkan kalau saya tidak "pindah tongkrongan" ke [Github](http://github.com).
 
 Blog statis ini dibangun menggunakan Jekyll dengan tema Al Folio dan dihosting secara gratis melalui Github Pages. Simpel, ringan, dan tanpa ribet.
