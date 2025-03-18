@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Pojok Aquarium # the website title (if blank, full name will be used instead)
-first_name: Nur
+first_name: Nurhidayatullah
 middle_name: 
-last_name: Hidayatullah
+last_name: 
 contact_note: >
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Ruang Berbagi # blog_name will be displayed in your blog page
 blog_description: Start before you're ready
-permalink: /blog/:year/:title/
+permalink: /:title/
 lsi: false # produce an index for related posts
 
 # Pagination
