@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-blog-baru-efek-pindah-tongkrongan",
+      
+        title: "blog baru efek pindah tongkrongan",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/blog-baru-efek-pindah-tongkrongan/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
