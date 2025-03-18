@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/index.html";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-tentang",
+          title: "tentang",
+          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/repositories/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -30,22 +30,22 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-projects",
+              title: "projects",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/projects/";
               },
-            },{id: "post-blog-baru-efek-pindah-tongkrongan",
+            },{id: "post-tongkrongan-baru-blog-baru",
       
-        title: "blog baru efek pindah tongkrongan",
+        title: "Tongkrongan Baru, Blog Baru",
       
-      description: "",
+      description: "Post pertama. Semoga berlanjut konsisten!",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/blog-baru-efek-pindah-tongkrongan/";
+          window.location.href = "/blog/2025/Post-Pertama/";
         
       },
     },{id: "post-a-post-with-image-galleries",
