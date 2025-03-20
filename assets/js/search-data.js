@@ -48,17 +48,6 @@ ninja.data = [{
           window.location.href = "/Tongkrongan-Baru,-Blog-Baru/";
         
       },
-    },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-      
-        title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-      
-      description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-      section: "Posts",
-      handler: () => {
-        
-          window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-        
-      },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
       
         title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -81,16 +70,16 @@ ninja.data = [{
           window.location.href = "/distill/";
         
       },
-    },{id: "books-nanyi-sunyi-seorang-bisu",
-          title: 'Nanyi Sunyi Seorang Bisu',
+    },{id: "books-nyanyi-sunyi-seorang-bisu",
+          title: 'Nyanyi Sunyi Seorang Bisu',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/nyanyi%20sunyi%20seorang%20bisu/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
+            },},{id: "books-the-100-year-old-man-who-climbed-out-of-the-window-and-disappeared",
+          title: 'The 100-Year-Old-Man Who Climbed Out of the Window and Disappeared',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/the%20100%20year/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
