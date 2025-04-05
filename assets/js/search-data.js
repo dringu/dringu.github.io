@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
+  },{id: "nav-pojok-aquarium",
+          title: "Pojok Aquarium",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -37,15 +37,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/";
               },
-            },{id: "post-membaca-pdrb-mengurai-postur",
+            },{id: "post-mengurai-pdrb-membaca-postur",
       
-        title: "Membaca PDRB, Mengurai Postur",
+        title: "Mengurai PDRB, Membaca Postur",
       
-      description: "Salah satu indikator yang dapat memberikan gambaran komprehensif tentang kondisi ekonomi suatu daerah adalah Produk Domestik Regional Bruto (PDRB). PDRB tidak hanya menunjukkan besaran ekonomi, tetapi juga struktur, dinamika pertumbuhan, dan potensi pengembangan suatu wilayah.",
+      description: "Mengulik Produk Domestik Regional Bruto (PDRB) untuk memahami struktur dan dinamika ekonomi wilayah.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/PDRB/";
+          window.location.href = "/Mengurai-PDRB,-Membaca-Postur/";
         
       },
     },{id: "post-tongkrongan-baru-blog-baru",
