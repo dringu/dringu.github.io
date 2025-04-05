@@ -16,4 +16,8 @@ goodreads_review:
 status: Started
 ---
 
+**===== SEDANG MEMBACA =====**
+
+
+
 Satu-satunya karya non-fiksi Pramoedya semasa tahanan di Buru. Buku ini merupakan kumpulan catatan berisi surat-surat pribadi kepada anak-anaknya yang tak pernah terkirim.

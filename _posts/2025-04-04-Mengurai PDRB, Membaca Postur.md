@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Membaca PDRB, Mengurai Postur
-date: 2025-03-24 16:40:00
+title: Mengurai PDRB, Membaca Postur
+date: 2025-04-04 19:40:00
 featured: true
-description: Salah satu indikator yang dapat memberikan gambaran komprehensif tentang kondisi ekonomi suatu daerah adalah Produk Domestik Regional Bruto (PDRB). PDRB tidak hanya menunjukkan besaran ekonomi, tetapi juga struktur, dinamika pertumbuhan, dan potensi pengembangan suatu wilayah.
+description: Mengulik Produk Domestik Regional Bruto (PDRB) untuk memahami struktur dan dinamika ekonomi wilayah.
 tags: data probolinggo ekonomi
 categories: data probolinggo
 ---
@@ -18,9 +18,10 @@ Dalam catatan ini, kita akan menelusuri data PDRB kabupaten/kota di Jawa Timur u
 
 **Gambaran PDRB Kabupaten/Kota di Jawa Timur**
 
-Untuk memahami perbedaan kondisi ekonomi antar daerah, kita akan menggunakan dua jenis data PDRB. PDRB atas dasar harga konstan (ADHK) 2010 digunakan untuk menganalisis pertumbuhan ekonomi riil dari tahun ke tahun tanpa terpengaruh inflasi. Sementara itu, PDRB atas dasar harga berlaku (ADHB) mencerminkan nilai ekonomi aktual pada suatu periode, sehingga akan digunakan untuk perbandingan antar daerah dalam satu waktu.
+Untuk memahami perbedaan kondisi ekonomi antar daerah, kita akan menggunakan dua jenis data PDRB. PDRB atas dasar harga konstan (ADHK) 2010 digunakan untuk menganalisis pertumbuhan ekonomi riil dari tahun ke tahun tanpa terpengaruh inflasi. Sementara itu, PDRB atas dasar harga berlaku (ADHB) mencerminkan nilai ekonomi aktual pada suatu periode, akan digunakan untuk perbandingan antar daerah dalam satu waktu.
 
 Tabel berikut menampilkan sampel data PDRB dari 8 kabupaten/kota di Jawa Timur yang dipilih untuk menunjukkan variasi besaran ekonomi—mulai dari yang terbesar (Kota Surabaya) hingga yang terkecil (Kota Blitar), serta beberapa daerah dengan nilai PDRB menengah termasuk Kabupaten Probolinggo:
+
 **Tabel 1. PDRB Kabupaten/Kota Terpilih di Jawa Timur, 2015-2024 (Miliar Rupiah)**
 
 |Kabupaten/Kota|2015|2020|2024|CAGR|
@@ -38,11 +39,11 @@ _Sumber: BPS Jawa Timur (diolah)_
 
 Dari tabel di atas, kita dapat melihat kesenjangan ekonomi yang sangat signifikan antar daerah di Jawa Timur. Kota Surabaya, sebagai pusat ekonomi provinsi, memiliki nilai PDRB hampir 85 kali lebih besar dibandingkan Kota Blitar. Bahkan dengan Kabupaten Probolinggo yang berada di tingkat menengah, perbedaannya masih mencapai sekitar 18 kali lipat.
 
-Kolom CAGR (_Compound Annual Growth Rate_) menunjukkan rata-rata pertumbuhan tahunan majemuk selama periode 2015-2024. Perhitungan CAGR digunakan karena lebih akurat untuk menggambarkan tren pertumbuhan dalam rentang waktu yang relatif panjang. Menariknya, beberapa daerah dengan PDRB lebih kecil seperti Kota Blitar memiliki tingkat pertumbuhan yang relatif tinggi (4.5%), sementara Kabupaten Bangkalan hanya tumbuh 0.4% per tahun.
+Kolom CAGR (_Compound Annual Growth Rate_) menunjukkan rata-rata pertumbuhan tahun majemuk selama periode 2015-2024. Perhitungan CAGR digunakan karena lebih akurat untuk menggambarkan tren pertumbuhan dalam rentang waktu yang relatif panjang. Menariknya, beberapa daerah dengan PDRB lebih kecil seperti Kota Blitar memiliki tingkat pertumbuhan yang relatif tinggi (4.5%), sementara Kabupaten Bangkalan hanya tumbuh 0.4% per tahun.
 
 **Visualisasi Tren PDRB 2015-2024**
 
-Visualisasi data keseluruhan dalam bentuk grafik dapat memberikan gambaran yang lebih komprehensif. Berikut grafik yang menampilkan besaran PDRB seluruh kabupaten/kota di Jawa Timur dalam rentang 1 dekade (2015-2024).
+Visualisasi data keseluruhan dalam bentuk grafik dapat memberikan gambaran yang lebih utuh. Berikut grafik yang menampilkan besaran PDRB seluruh kabupaten/kota di Jawa Timur dalam rentang 1 dekade (2015-2024).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -50,7 +51,7 @@ Visualisasi data keseluruhan dalam bentuk grafik dapat memberikan gambaran yang 
     </div>
 </div>
 <div class="caption">
-    Gambar 1. Tren PDRB Kabupaten/Kota di Jawa Timur 2015-2024 (kiri: seluruh daerah; kanan: tanpa Surabaya dan Sidoarjo)
+    Gambar 1. Tren Besaran PDRB Kabupaten/Kota di Jawa Timur 2015-2024 (kiri: seluruh daerah; kanan: tanpa Surabaya dan Sidoarjo)
 </div>
 
 Dari grafik pertama (kiri), terlihat bahwa nilai PDRB Kota Surabaya dan Sidoarjo memiliki jarak yang sangat jauh dengan daerah lainnya dan tampak sebagai pencilan. Untuk memudahkan pengamatan terhadap daerah lainnya, grafik kedua (kanan) menampilkan tren PDRB tanpa kedua daerah tersebut.
@@ -97,7 +98,7 @@ Peta di atas menunjukkan konsentrasi ekonomi yang tinggi di kawasan Surabaya dan
 
 **Profil Ekonomi Kabupaten Probolinggo**
 
-Kabupaten Probolinggo dengan PDRB sebesar 45,7 triliun rupiah (2024, ADHB) berada di posisi menengah di antara 38 kabupaten/kota di Jawa Timur. Dengan CAGR 3,7% selama periode 2015-2024, pertumbuhan ekonomi Kabupaten Probolinggo berada sedikit di bawah rata-rata provinsi (4,1%).
+Kabupaten Probolinggo dengan PDRB sebesar 45,7 triliun rupiah (2024, ADHB) berada di posisi menengah di antara 38 kabupaten/kota di Jawa Timur. Dengan CAGR 3,7%, ukuran ekonomi Kabupaten Probolinggo tumbuh dibawah rata-rata provinsi (4,1%) selama 1 dekade terakhir (2015-2024).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -108,11 +109,11 @@ Kabupaten Probolinggo dengan PDRB sebesar 45,7 triliun rupiah (2024, ADHB) berad
     Gambar 4. Tren Pertumbuhan Ekonomi Kabupaten Probolinggo
 </div>
 
-Dari grafik di atas, terlihat bahwa tren pertumbuhan Kabupaten Probolinggo relatif stabil mengikuti pola provinsi, meskipun sempat mengalami kontraksi di masa pandemi COVID-19. Terbaru, pada tahun 2024, pertumbuhan ekonomi Kabupaten Probolinggo mencapai 4,8% (YoY), sedikit dibawah Jawa Timur sebesar [4,9%](https://jatim.bps.go.id/id/pressrelease/2025/02/05/1479/ekonomi-jawa-timur-tahun-2024-tumbuh-4-93-persenekonomi-jawa-timur-triwulan-iv-2024-tumbuh-5-03-persen--y-on-y-ekonomi-jawa-timur-triwulan-iv-2024-tumbuh--0-77-persen--q-to-q-.html) dan dibawah pertumbuhan nasional sebesar [5.03%](https://indonesia.go.id/kategori/ekonomi-bisnis/8991/perekonomian-indonesia-2024-tumbuh-sebesar-5-03-persen?lang=1).
+Dari grafik di atas, terlihat bahwa tren pertumbuhan Kabupaten Probolinggo bergerak relatif stabil mengikuti pola provinsi, meskipun sempat mengalami kontraksi di masa pandemi COVID-19. Terbaru, pada tahun 2024, pertumbuhan ekonomi Kabupaten Probolinggo mencapai 4,8% (YoY), sedikit dibawah Jawa Timur sebesar [4,9%](https://jatim.bps.go.id/id/pressrelease/2025/02/05/1479/ekonomi-jawa-timur-tahun-2024-tumbuh-4-93-persenekonomi-jawa-timur-triwulan-iv-2024-tumbuh-5-03-persen--y-on-y-ekonomi-jawa-timur-triwulan-iv-2024-tumbuh--0-77-persen--q-to-q-.html) dan dibawah pertumbuhan nasional sebesar [5.03%](https://indonesia.go.id/kategori/ekonomi-bisnis/8991/perekonomian-indonesia-2024-tumbuh-sebesar-5-03-persen?lang=1).
 
 **Struktur Ekonomi**
 
-Untuk memahami lebih detail tentang karakteristik ekonomi Kabupaten Probolinggo, kita bisa merujuk pada data PDRB berdasarkan lapangan usaha. adapun data dimaksud dapat divisualisikan dalam chart berikut:
+Untuk memahami lebih detail tentang karakteristik ekonomi Kabupaten Probolinggo, kita bisa merujuk pada data PDRB berdasarkan lapangan usaha. Data dimaksud dapat divisualisikan dalam chart berikut:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -123,7 +124,7 @@ Untuk memahami lebih detail tentang karakteristik ekonomi Kabupaten Probolinggo,
     Gambar 5. Kontribusi Sektor Ekonomi terhadap PDRB Kabupaten Probolinggo, 2024
 </div>
 
-Grafik diatas menggunakan data PDRB Atas dasar harga berlaku adhb tahun 2024, terlihat bahwa struktur ekonomi Kabupaten Probolinggo didominasi oleh tiga sektor utama:
+Grafik diatas menggunakan data PDRB Atas dasar harga berlaku (ADHB) tahun 2024, terlihat bahwa struktur ekonomi Kabupaten Probolinggo didominasi oleh tiga sektor utama:
 
 1. Pertanian, Kehutanan, dan Perikanan - Menyumbang hampir 30% dari total PDRB
 2. Industri Pengolahan/Manufaktur - Berkontribusi sekitar 27% terhadap PDRB
@@ -181,6 +182,8 @@ Beberapa karakteristik masing-masing Wilayah yang dapat dipahami dari chart diat
 - **Probolinggo**: Bertumpu pada Pertanian (32.3%) dan Industri (26.7%) dengan komposisi relatif seimbang.
 - **Kota Probolinggo**: Menunjukkan karakter perkotaan dengan dominasi sektor Perdagangan (26.2%) dan Transportasi (16.1%).
 
+Hal menarik yang perlu dicermati dari gambaran 5 sektor utama diatas adalah, sektor administrasi pemerintahan di Kabupaten Probolinggo masuk dalam 5 besar kontributor utama pembentuk PDRB.Ini menggambarkan struktur ekonomi Kabupaten Probolinggo yang masih kurang terdiversifikasi. Idealnya, setidaknya seperti daerah tetangga, kontribusinya dalam PDRB tidak melampaui sektor-sektor produktif. 
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/chart/Perbandingan sektor kunci.png" class="img-fluid rounded z-depth-1" %}
@@ -199,4 +202,5 @@ Berdasarkan struktur ekonomi yang ada dan perbandingan dengan daerah tetangga, K
 - Melakukan transformasi struktural lebih lanjut dengan kontribusi sektor industri manufaktur yang sudah cukup signifikan (27%). Namun, masih diperlukan upaya untuk diversifikasi ekonomi dan pengembangan sektor jasa, sementara dalam nilai absolut, kesenjangan dengan Kabupaten Pasuruan tetap sangat besar.
 - Memperkuat rantai nilai industri manufaktur, terutama yang berbasis sumber daya lokal
 - Mengembangkan sektor jasa pendukung seperti logistik dan perdagangan untuk memaksimalkan posisi geografis Probolinggo di jalur utara-timur Jawa
+
 Memahami karakteristik PDRB dan dinamika pertumbuhan ekonomi regional merupakan langkah awal yang penting dalam perumusan kebijakan pembangunan yang efektif dan tepat sasaran.

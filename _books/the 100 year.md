@@ -16,8 +16,8 @@ goodreads_review:
 status: Finished
 ---
 
-Satu jam sebelum perayaan ulang tahunnya yang ke-100, Allan Karlsson memutuskan untuk kabur dari panti jompo. Ya, kabur! Dia melompat dari jendela dan memulai petualangan absurd yang membawanya keliling dunia. Dari Swedia, dia terbang ke Amerika, lalu ke Tiongkok, Rusia, Korea Utara, bahkan sampai ke Indonesia.
+Satu jam sebelum perayaan ulang tahunnya yang ke-100, Allan Karlsson memutuskan untuk kabur dari panti jompo. Ya, kabur! Dia melompat keluar jendela dan memulai petualangan yang membawanya keliling dunia. Dari Swedia, dia terbang ke Amerika, lalu ke Tiongkok, Rusia, Korea Utara, bahkan sampai ke Indonesia.
 
-Petualangan konyolnya ini menjadi pintu yang mengungkap kehidupan Allan semasa mudanya. Kakek tua ini rupanya pernah memainkan peran kunci dalam banyak peristiwa besar dunia.
+Petualangan absurdnya ini menjadi pintu yang mengungkap kehidupan Allan semasa mudanya. Kakek tua ini rupanya pernah memainkan peran kunci dalam banyak peristiwa besar dunia.
 
-Novel fiksi sejarah karya Jonas Jonasson ini sungguh menghibur dan penuh kejutan. Saya beli buku ini ketika menemani istri ke Tunjungan Plaza. Awalnya cuma berniat mampir sebentar ke Gramedia, tapi begitu menemukan buku ini, saya langsung tertarik membaca. Selanjutnya, saya biarkan istri berkeliling mall, sementara saya duduk mengikuti petualangan seorang kakek tua keliling dunia, sambil tertawa-tawa.
+Novel fiksi sejarah karya Jonas Jonasson ini sungguh menghibur dan sarat kejutan tak terduga. Saya beli buku ini ketika menemani istri jalan berkeliling mall. Awalnya sekedar niat melipir bentar ke Gramedia, begitu menemukan buku ini, saya langsung ambil dan beli. Selanjutnya, saya tinggalkan istri berkeliling sendiri, sementara saya duduk mengikuti petualangan seorang kakek tua keliling dunia, sambil tertawa-tawa.

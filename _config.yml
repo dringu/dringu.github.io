@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Nurhidayatullah # the website title (if blank, full name will be used instead)
+title: Pojok Aquarium # the website title (if blank, full name will be used instead)
 first_name: Nurhidayatullah
 middle_name: 
 last_name: 
 contact_note: >
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Start before you're ready
+  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: belajar, pikiran, menulis, kontribusi # add your own keywords or leave empty
 lang: id # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/iconY.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)⚛️
 
 url: https://dringu.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root /al-folio
@@ -89,7 +89,7 @@ bing_site_verification: B4AF0131BAC00ED47AEDF57A85114941 # out your bing-site-ve
 blog_name: Pojok Aquarium # blog_name will be displayed in your blog page
 blog_description: Start before you're ready
 permalink: /:title/
-lsi: false # produce an index for related posts
+lsi: true # produce an index for related posts
 
 # Pagination
 pagination:
