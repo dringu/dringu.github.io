@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/";
               },
-            },{id: "post-mengurai-pdrb-membaca-postur",
+            },{id: "post-djajalelana-satu-nama-tiga-generasi",
+      
+        title: "Djajalelana; Satu Nama Tiga Generasi",
+      
+      description: "Sejarah Djajalelana dan Probolinggo",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/Djajalelana/";
+        
+      },
+    },{id: "post-mengurai-pdrb-membaca-postur",
       
         title: "Mengurai PDRB, Membaca Postur",
       
